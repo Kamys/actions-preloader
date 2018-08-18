@@ -1,0 +1,10 @@
+node_modules/
+server/logs/
+.server/
+.next/
+.env
+/build
+/logs
+
+# Idea
+.idea/
